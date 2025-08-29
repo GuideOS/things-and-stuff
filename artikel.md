@@ -72,9 +72,9 @@ Den Anfang machte das Tool Primo, welches bewusst an Yast angelehnt sein sollte 
 
 ![Ein First Run Wizard](https://github.com/GuideOS/things-and-stuff/blob/main/img/erste-idee.png?raw=true)
 
-### Pakete Managen
+### Pakete Management
 
-Die definition "Distribution" kann weit ausgelegt werden. Von einem 
+Die definition "Distribution" kann weit ausgelegt werden. Für das Team bedeutet es ganz klar ein eigenes Repository zu pflegen. Neben dem Debian-Repo existieren noch eigene GuideOS-Repos die eigene Software enthalten, sowie Software die in eigenregie protiert wurde. Die anbindung an APT erfolgt über den OpenBuildService.
 
 ### Dein Wunsch ist mir Befehl
 
