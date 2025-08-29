@@ -36,6 +36,7 @@ Ab und zu muss ich auch mal mit dem Holzhammer dazwischen schlagen, wenn sich di
 **@Stardenver**
 
 **@Actionschnitzel**
+Mit elf Jahren war mit sehr langweilig und ich haben dann alle lebaren Files im system23 von Windows gelesen. Das klingt nicht sehr gesund, ist aber warscheinlich der Grund dafür das ich mich heut zu Tage um die IT eines Familienunternhemen kümmere. Meine aufgaben im Core-Team sind Software-Enticklung Paket-Bau, Repository-Wartung und darauf zu achten, der niemand den Shebang vergisst.
 
 **@evilware666**    
     
