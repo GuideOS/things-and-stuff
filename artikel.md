@@ -1,8 +1,12 @@
+![Logo](https://github.com/GuideOS/things-and-stuff/blob/main/img/guideos-finale-logo-schriftzug-weiss.png?raw=true)
+
 ### Gemeinsam statt einsam
 
-Die Rahmenbedingungen wurden abgesteckt. Es soll ein Projekt werden, dass ein ganzes Forum einbeziehen soll. Es entstanden hitzige Debatten über die Basis, am Ende wurde sich für Debian entschieden. Diese Entscheidung war langwierig und nur Teil des groben Umrisses. Die eigentlich Mammutaufgabe besteht darin die einzelnen Fähigkeiten der Forums-Nutzer zu bündeln, die Schwelle um zu partizipieren soll so niedrig wie möglich sein. Von einfachen Gedankenspielen, Ideen und Bildschnipsel bis hin zu Code und Expertise in IT-Infrastruktur ist alles erlaubt.
-
-#### Das Schöne: Alles ist von Anfang an dokumentiert!
+Die Rahmenbedingungen wurden abgesteckt. Es soll ein Projekt werden, dass ein ganzes Forum einbeziehen soll. Es entstanden hitzige Debatten über die Basis, am Ende wurde sich für Debian entschieden. Diese Entscheidung war langwierig und nur Teil des groben Umrisses. Die eigentlich Mammutaufgabe besteht darin die einzelnen Fähigkeiten der Forums-Nutzer zu bündeln, die Schwelle um zu partizipieren soll so niedrig wie möglich sein. Von einfachen Gedankenspielen, Ideen und Bildschnipsel bis hin zu Code und Expertise in IT-Infrastruktur ist alles erlaubt.    
+    
+![Desktop](https://github.com/GuideOS/things-and-stuff/blob/main/img/gos-desktop.png?raw=true)    
+    
+### Das Schöne: Alles ist von Anfang an dokumentiert!
 
 [Community Projekt: Bestände Interesse am Bau/Modifizierung einer eigenen Distro?](https://forum.linuxguides.de/index.php?thread/7487-community-projekt-best%C3%A4nde-interesse-am-bau-modifizierung-einer-eigenen-distro/&pageNo=1)
 
@@ -49,11 +53,15 @@ Natürlich wurde auch lebhaft diskutiert, welcher Distribution GuideOS zu Grunde
 
 Einstimmig war die Community schon zu Beginn dafür, dass ProjectGuideOS (Arbeitstitel) für Anfänger geeignet sein soll. Das bedeutete sehr wenig Terminal und viele Buttons zum klicken. Daraus entwickelten sich später eine ganzes Repository voll mit kleinen Helfer-Tools aus der Community.
 
+![GOS-Tools](https://github.com/GuideOS/things-and-stuff/blob/main/img/gos-menu.png?raw=true)
+
 Den Anfang machte das Tool Primo, welches bewusst an Yast angelehnt sein sollte und viele Funktionen vereint und die Cinnamon-Settings ersetzt.
+
+![Primo](https://github.com/GuideOS/things-and-stuff/blob/main/img/primo-front.png?raw=true)
 
 ### Die erste Idee
 
-![Ein First Run Wizard](https://forum.linuxguides.de/core/_data/public/files/15/b2/12997-15b2dd656579e63f1ae70267d37b9c489646a37746f0fbbe533a5c1a82c11e91-variant.webp)
+![Ein First Run Wizard](https://github.com/GuideOS/things-and-stuff/blob/main/img/erste-idee.png?raw=true)
 
 ### Pakete Managen
 
@@ -62,6 +70,7 @@ Die definition "Distribution" kann weit ausgelegt werden. Von einem
 ### Dein Wunsch ist mir Befehl
 
 In einem Theme über zukünftige Funktionen kam die Idee eines Nutzers auf einen Layout-Changer a la ZorinOS zu entwickeln. Die Idee fand sofort anklang und wurde vom Entwickler @Actionschintzel mit den Worten "Ach, das ist ja nur ein bisschen JSON-File-Geschubse" also schnell zu erledigen abgetan. In wahrheit hat die Entwicklung dann ein halbes Jahr gedauert und bis 80% der Bugs verschudnen waren wurden duzende Wikis rauf und runter gelesen. Am Ende stand das:
+![Layouter](https://github.com/GuideOS/things-and-stuff/blob/main/img/primo-layout.png?raw=true)
 
 #### Wohin die Reise führt
 
