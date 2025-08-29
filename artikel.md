@@ -17,13 +17,13 @@ Der große Vorteil des Projektes, ist das Forum. Man kennt sich schreibt oft mit
 
 Schon in der Ideen-Sammelphase beschloss das Mod-Team auf die Vote-Funktion des Forum zu setzen. So konnten Meinungen und Stimmungen sehr gut von Beginn an abgegriffen werden. Voting kann aber schief gehen. Nachdem die Community beschlossen hatte, dass die Firewall ab Installation eingeschaltet sein soll, kam es bei den Testern vermehr zu Beschwerden, das nicht mal mehr APT funktioniert und man musste zurückrudern.
 
-### Das Code-Team
+### Das Core-Team
 
 Zunächst bestand das Team ausschließlich aus Moderatoren des Forums, welche Know-How zum Distro-Bau, Paket-Bau, APT, DPKG, Python und BASH mitbrachten. Schnell wurde aber klar, das Grafiker und Webdesigner gebraucht werden. So erweiterte sich das Team über der Jahr hinweg mit Normalen Nutzers des Forums, die sich besonders engagierten.
 
 \[Hier müssen Noch die Mitglieder beschrieben werden\]
 
-Stephan, mit dem Auge für das Design
+**@Stephan**
 
 Aus der persönlichen Schnapsidee wurde schnell Realität. Nach dem ich von sehr langer Zeit schon mal ein bisschen mit Linux rumgespielt hatte, habe ich Ende 2023 noch mal mit den Gedanken gespielt und bin seit Anfang 2024 ausschließlich noch auf Linux unterwegs. Das Forum „Linux Guides Community“ war von anfang an mein Begleiter bei allen Fragen und so bin ich dort hängen geblieben. Egal ob debian- oder arch-basierende Distributionen ich habe mich mit viele Distributionen probiert und bin dann im Herbst 2024 Mitbegründer des GuideOS Projektes geworden.
 
@@ -33,18 +33,26 @@ Was ich alles in der Zeit lernen durfte hätte ich mir mit Ende 50 auch nicht me
 
 Ab und zu muss ich auch mal mit dem Holzhammer dazwischen schlagen, wenn sich die Jungs am Code in Träumereien verlieren, aber genau das gehört auch dazu. GuideOS ist ein Traum für mich, der wahr geworden ist.
 
-Boris??
+**@Stardenver**
 
-Timo????
+**@Actionschnitzel**
 
-Flo???
+**@evilware666**    
+    
+Meine ersten Erfahrungen mit Linux machte ich 2006, eher zufällig durch meinen damaligen Nachbarn.
+Nach den Anfängen mit Ubuntu „Dapper Drake“ und einem kurzen Wechsel zu Linux Mint wuchs bei mir schnell das Interesse, tiefer einzusteigen.
+Statt ständig von einer Distribution zur nächsten zu wechseln, begann ich, eigene Systeme aufzubauen – zunächst für mich selbst, später auch, um Freunden und Bekannten den Einstieg zu erleichtern.
 
-Daniel
+Mit ersten Projekten wie den Ubuntu-PLUS-Systemen konnte ich Erfahrungen sammeln, die ich heute in GuideOS einbringe.
+GuideOS wird von mir nicht nur mitentwickelt, sondern ich nutze es auch als mein Produktivsystem (Version 0.9 Beta). Einige der „kleinen Helferlein“-Tools, die den Anwendern den Einstieg erleichtern sollen, habe ich größtenteils eigens für GuideOS entwickelt. Andere Werkzeuge, die ich zunächst für den eigenen Bedarf erstellt hatte, fanden ebenfalls teilweise ihren Weg in das System. Dass ich bei so einem Projekt mitwirken kann/konnte, ist echt der Hammer. Naiv wie ich war, dachte ich zunächst, meine Arbeit würde leise (wie bisher) im stillen Kämmerlein stattfinden. Erst als wir zusätzlich eine Webseite, eine Cloud und weitere Features bekamen, wurde mir klar, dass das nicht der Fall ist. Zeitweise hatte ich das Gefühl, in einem ICE mit Volldampf in Richtung Wahnsinn zu sitzen – so schnell entwickelte sich das Projekt." Vielleicht kannst du da ja etwas mit anfangen, ich habe ehrlich gesagt kein Plan, was in so einen Artike rein kommt bzw. muss.
 
-Markus???
+**@KTT76**
 
-Samuel???
+**@Nightworker**
 
+**@kim88**    
+
+     
 ### Die Basis
 
 Natürlich wurde auch lebhaft diskutiert, welcher Distribution GuideOS zu Grunde liegen soll. Erste Experimente, die niemals an die Öffentlichkeit kamen basierten auf Ubuntu Cinnamon, wurden aber schnell wieder verworfen, da es nicht gerade sicher war, was ein neuer Release mit den GuideOS-Konfigurationen anstellen würde. Offiziell wurde dann verkündet, das die erste Beta (Closed-Beta) mit Debian als Basis an den Start geht. In den ersten Gehversuchen wurden noch ein Modifiziertes Debian-Live-ISO genutzt, später wurden eine Alternative Version mit Spiral-Linux als Basis getestet. Die Aktuelle GuideOS-Version ist immer noch an die Konfigurationen von Spiral angelehnt wird aber mit sehr vielen Anpassungen über live-build/lb config und lb build aufgesetzt.
