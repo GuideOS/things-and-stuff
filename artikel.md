@@ -4,9 +4,8 @@ Die Rahmenbedingungen wurden abgesteckt. Es soll ein Projekt werden, dass ein ga
 
 #### Das Schöne: Alles ist von Anfang an dokumentiert!
 
-Community Projekt: Bestände Interesse am Bau/Modifizierung einer eigenen Distro?
+[Community Projekt: Bestände Interesse am Bau/Modifizierung einer eigenen Distro?](https://forum.linuxguides.de/index.php?thread/7487-community-projekt-best%C3%A4nde-interesse-am-bau-modifizierung-einer-eigenen-distro/&pageNo=1)
 
-Das Projekt vorgestellt
 
 ### Infrastruktur und Kommunikation
 
