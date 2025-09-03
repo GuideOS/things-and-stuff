@@ -87,7 +87,7 @@ Wir wollen natürlich nah am Nutzer sein, um schnell rückmeldungen zu bekommen 
 
 Menschen übersehen gerne etwas und machen auch Fehler. Als die ersten Bugreports eintrudelten. War das ganze Team am rotieren und schnell bemüht alles auszubügeln. In diesem einen Jahr kam es aber auch vor das einige von uns nicht schlafen konnten oder neben der Frau im Bettlagen und vorm geistigen Auge Python-Code geschrieben haben, der denn sogar wirklich funktionierte. Der Satz: "Als, ich mich darauf eingelassen hab', hatte ich mir das einfacher vorgestellt!", ist auch des öfteren gefallen. 
 
-Die große erkenntnis ist aber, das hiniter jeder Distro menschen stecken, die eine Leistung vollbracht haben. Man schreibt nicht einfach mal so Code auch jetzt nicht in zeiten von ChatGPT. Alles muss von manuell angepasst werden, ob das nun GuideOS, Ubuntu oder CachyOS ist. 
+Die große erkenntnis ist aber, das hiniter jeder Distro menschen stecken, die eine Leistung vollbracht haben. Man schreibt nicht einfach mal so Code auch jetzt nicht in zeiten von ChatGPT. Alles muss manuell angepasst werden, ob das nun GuideOS, Ubuntu oder CachyOS ist. 
 
 #### Wohin die Reise führt
 
