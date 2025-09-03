@@ -57,11 +57,11 @@ GuideOS wird von mir nicht nur mitentwickelt, sondern ich nutze es auch als mein
      
 ### Die Basis
 
-Natürlich wurde auch lebhaft diskutiert, welcher Distribution GuideOS zu Grunde liegen soll. Erste Experimente, die niemals an die Öffentlichkeit kamen basierten auf Ubuntu Cinnamon, wurden aber schnell wieder verworfen, da es nicht gerade sicher war, was ein neuer Release mit den GuideOS-Konfigurationen anstellen würde. Offiziell wurde dann verkündet, das die erste Beta (Closed-Beta) mit Debian als Basis an den Start geht. In den ersten Gehversuchen wurden noch ein Modifiziertes Debian-Live-ISO genutzt, später wurden eine Alternative Version mit Spiral-Linux als Basis getestet. Die Aktuelle GuideOS-Version ist immer noch an die Konfigurationen von Spiral angelehnt wird aber mit sehr vielen Anpassungen über live-build/lb config und lb build aufgesetzt.
+Natürlich wurde auch lebhaft darüber diskutiert, welcher Distribution GuideOS zu Grunde liegen soll. Erste Experimente, die niemals an die Öffentlichkeit kamen, basierten auf Ubuntu Cinnamon. Diese wurden aber schnell wieder verworfen, da es nicht wirklich sicher war, was ein neuer Release mit den GuideOS-Konfigurationen anstellen könnte. Offiziell wurde dann verkündet, dass die erste Beta (Closed-Beta) mit Debian als Basis an den Start geht. Für die ersten Gehversuche wurde noch ein modifiziertes Debian-Live-ISO genutzt - später wurden eine alternative Version mit Spiral-Linux als Basis getestet. Die aktuelle GuideOS-Version ist immer noch an die Konfigurationen von Spiral angelehnt, wird aber mit sehr vielen Anpassungen über live-build/lb config und lb build aufgesetzt.
 
 #### Die Software
 
-Einstimmig war die Community schon zu Beginn dafür, dass ProjectGuideOS (Arbeitstitel) für Anfänger geeignet sein soll. Das bedeutete sehr wenig Terminal und viele Buttons zum klicken. Daraus entwickelten sich später eine ganzes Repository voll mit kleinen Helfer-Tools aus der Community.
+Einstimmig war die Community schon zu Beginn dafür, dass ProjectGuideOS (Arbeitstitel) für Anfänger geeignet sein soll. Das bedeutete sehr wenig Terminal und viele Buttons zum klicken. Daraus entwickelte sich später ein ganzes Repository, voll mit kleinen Helfer-Tools aus der Community.
 
 ![GOS-Tools](https://github.com/GuideOS/things-and-stuff/blob/main/img/gos-menu.png?raw=true)
 
@@ -75,23 +75,25 @@ Den Anfang machte das Tool Primo, welches bewusst an Yast angelehnt sein sollte 
 
 ### Pakete Management
 
-Die definition "Distribution" kann weit ausgelegt werden. Für das Team bedeutet es ganz klar ein eigenes Repository zu pflegen. Neben dem Debian-Repo existieren noch eigene GuideOS-Repos die eigene Software enthalten, sowie Software die in eigenregie protiert wurde. Die anbindung an APT erfolgt über den OpenBuildService.
+Die definition "Distribution" kann weit ausgelegt werden. Für das Team bedeutet es ganz klar, ein eigenes Repository zu pflegen. Neben dem Debian-Repo existieren noch eigene GuideOS-Repos die eigene Software enthalten, sowie Software die in Eigenregie portiert wurde. Die Anbindung an APT erfolgt über den OpenBuildService.
 
 ### Dein Wunsch ist mir Befehl
 
-In einem Theme über zukünftige Funktionen kam die Idee eines Nutzers auf einen Layout-Changer a la ZorinOS zu entwickeln. Die Idee fand sofort anklang und wurde vom Entwickler @Actionschintzel mit den Worten "Ach, das ist ja nur ein bisschen JSON-File-Geschubse" also schnell zu erledigen abgetan. In wahrheit hat die Entwicklung dann ein halbes Jahr gedauert und bis 80% der Bugs verschudnen waren wurden duzende Wikis rauf und runter gelesen. Am Ende stand das:
+In einem Thema im Forum zu zukünftige Funktionen kam die Idee eines Nutzers auf, einen Layout-Changer a la ZorinOS zu entwickeln. Die Idee fand sofort Anklang und wurde von Entwickler @Actionschnitzel mit den Worten "Ach, das ist ja nur ein bisschen JSON-File-Geschubse" also schnell zu erledigen abgetan. In Wahrheit hat die Entwicklung dann ein halbes Jahr gedauert und bis wenigstens 80% der Bugs verschwunden waren, wurden dutzende Wikis rauf und runter gelesen. Am Ende (ent)stand das:
 ![Layouter](https://github.com/GuideOS/things-and-stuff/blob/main/img/primo-layout.png?raw=true)
 
 ### Die menschliche Komponente
 
-Wir wollen natürlich nah am Nutzer sein, um schnell rückmeldungen zu bekommen haben wir ein GUI geschireben das ohne Ahnmeldung einen Bug an Redmine sendet und ein Bot postet das Ganze dann im Forum. Ob das bei einer großen Nutzerschaft immernoch praktikabel ist wird sich allerdings noch zeigen. 
+Wir wollen natürlich nah am Nutzer sein. Um schnell Rückmeldungen zu bekommen, haben wir ein GUI geschrieben, welches ohne Anmeldung einen Bug an unsere Redmine-Instanz sendet. Ein Bot überträgt das Ganze dann ins Forum. Ob das bei einer großen Nutzerschaft immer noch praktikabel sein wird, muss sich allerdings noch zeigen. 
 
-Menschen übersehen gerne etwas und machen auch Fehler. Als die ersten Bugreports eintrudelten. War das ganze Team am rotieren und schnell bemüht alles auszubügeln. In diesem einen Jahr kam es aber auch vor das einige von uns nicht schlafen konnten oder neben der Frau im Bettlagen und vorm geistigen Auge Python-Code geschrieben haben, der denn sogar wirklich funktionierte. Der Satz: "Als, ich mich darauf eingelassen hab', hatte ich mir das einfacher vorgestellt!", ist auch des öfteren gefallen. 
+Menschen übersehen gerne etwas und machen auch Fehler. Als die ersten Bugreports eintrudelten, war das ganze Team am rotieren und bemüht, alles auszubügeln. In diesem einen Jahr kam es aber auch vor, dass einige von uns nicht schlafen konnten oder neben ihrer Frau im Bett lagen und vor dem geistigen Auge Python-Code geschrieben haben, der denn sogar wirklich funktionierte. Der Satz: "Als, ich mich darauf eingelassen hab', hatte ich mir das einfacher vorgestellt!", ist auch des öfteren gefallen. 
 
-Die große erkenntnis ist aber, das hiniter jeder Distro menschen stecken, die eine Leistung vollbracht haben. Man schreibt nicht einfach mal so Code auch jetzt nicht in zeiten von ChatGPT. Alles muss manuell angepasst werden, ob das nun GuideOS, Ubuntu oder CachyOS ist. 
+Die große Erkenntnis ist aber, das hinter jeder Distro Menschen stecken, die eine Leistung vollbracht haben. Man schreibt nicht einfach mal so Code - auch nicht in Zeiten von ChatGPT. Alles muss manuell angepasst werden, ob das nun GuideOS, Ubuntu oder CachyOS ist. 
 
 #### Wohin die Reise führt
 
 Jetzt im Spätsommer 2025 ist schon klar, dass GuideOS langfristig auf Trixie zur finalen Version vorangetrieben werden soll. Damit bleiben wir auf Debian und schauen gemeinsam, dass wir die finale Version 1.0 noch in diesem Jahr an den User bringen können.
 
-Natürlich soll GuideOS ein funktionierende Distro sein, im focus steht aber auch das Lernen. Unbestreitbar kann jeder der zum Core-Team gehört, das er mehr über Linux gelernt hat. Das ist auch eine Grundvoraussetzung: Lernen und über seinen Schatten springen. Man muss nicht Programmieren können um bei GuideOS dabei zu sein, aber das Team-Mitglieder sich plötzlich dicke Handbücher bestellen, weil sie mehr wissen und leisten wollen ist keine ausnahme.
+Natürlich soll GuideOS eine funktionierende Distro sein. Im Fokus steht aber auch das Lernen. Unbestreitbar kann jeder, der zum Core-Team gehört, mit absoluter Sicherheit sagen, dass er mehr über Linux gelernt hat. Das ist auch eine Grundvoraussetzung: Lernen und über seinen Schatten springen. Man muss nicht Programmieren können um bei GuideOS dabei zu sein. Aber es ist auch mehr als einmal passiert, dass Team-Mitglieder, die eigentlich nur einen kleinen Teil mit vorhandenem Wissen beitragen wollten, sich plötzlich umfangreiche Handbücher bestellt haben, weil sie noch mehr wissen und leisten wollten.
+
+Vieles ist offen und neben den ernormen Möglichkeiten und der Chance, gemeinsam etwas zu schaffen, ist da natürlich auch immer die Angst, dass man mit einem solchen Projekt scheitern könnte. Wie wir uns die Angst nehmen? Hier wird es jetzt ganz prakmatisch und vielleicht sogar klischeehaft: Der Weg ist das Ziel. Wir sind aus der Community enstanden und diese ist der Stützpfeiler und das Herz von GuideOS. Egal wie der Weg verläuft und egal wohin er uns führt - wir gehen ihn gemeinsam als Community. Auf diesem Weg haben wir viel Spaß, lernen viel Neues, wachsen über uns hinaus und wir machen einfach etwas ganz tolles als Gemeinschaft. Das kann uns niemand mehr nehmen und egal was kommt, wir erleben es gmeinsam. Danke an die gesamte Community.
