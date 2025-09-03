@@ -2,7 +2,7 @@
 
 ### Gemeinsam statt einsam
 
-Die Rahmenbedingungen wurden abgesteckt. Es soll ein Projekt werden, dass ein ganzes Forum einbeziehen soll. Es entstanden hitzige Debatten über die Basis, am Ende wurde sich für Debian entschieden. Diese Entscheidung war langwierig und nur Teil des groben Umrisses. Die eigentlich Mammutaufgabe besteht darin die einzelnen Fähigkeiten der Forums-Nutzer zu bündeln, die Schwelle um zu partizipieren soll so niedrig wie möglich sein. Von einfachen Gedankenspielen, Ideen und Bildschnipsel bis hin zu Code und Expertise in IT-Infrastruktur ist alles erlaubt.    
+Die Rahmenbedingungen wurden abgesteckt. Es soll ein Projekt werden, das ein ganzes Forum einbeziehen soll. Es entstanden hitzige Debatten über die Basis, am Ende wurde sich für Debian entschieden. Diese Entscheidung war langwierig und nur Teil des groben Umrisses. Die eigentlich Mammutaufgabe besteht darin die einzelnen Fähigkeiten der Forums-Nutzer zu bündeln, die Schwelle um zu partizipieren soll so niedrig wie möglich sein. Von einfachen Gedankenspielen, Ideen und Bildschnipsel bis hin zu Code und Expertise in IT-Infrastruktur ist alles erlaubt.    
     
 ![Desktop](https://github.com/GuideOS/things-and-stuff/blob/main/img/gos-desktop.png?raw=true)    
     
