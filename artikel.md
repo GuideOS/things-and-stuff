@@ -13,7 +13,7 @@ Die Rahmenbedingungen wurden abgesteckt. Es soll ein Projekt werden, das ein gan
 
 ### Infrastruktur und Kommunikation
 
-Der große Vorteil des Projektes, ist das Forum. Man kennt sich schreibt oft mit den selben Nutzern und weiß wie man den Anderen zu nehmen hat. Auf dieser Basis ist es eine toll erfahrung gemeinsam etwas aus dem Nichts zu erschaffen. Kleine Anmerkungen aus dem Forum werden im Code-Team genausten diskutiert. Am ende steht eine Direkte Umsetzung oder gar ein Voting zum Thema in der Community. Wahrend der Beta-Phase entwickelte das Team ein Tool, das direkt aus GuideOS heraus Bug-Reports in das Forum postet, sodas gleich darüber diskutiert und gemeinsam eine Lösung gefunden werden konnte.
+Der große Vorteil des Projektes ist das Forum. Man kennt sich, schreibt oft mit den selben Nutzern und weiß wie man den Anderen "zu nehmen hat". Auf dieser Basis ist es eine toll erfahrung gemeinsam etwas aus dem Nichts zu erschaffen. Kleine Anmerkungen aus dem Forum werden im Code-Team genausten diskutiert. Am ende steht eine Direkte Umsetzung oder gar ein Voting zum Thema in der Community. Wahrend der Beta-Phase entwickelte das Team ein Tool, das direkt aus GuideOS heraus Bug-Reports in das Forum postet, sodas gleich darüber diskutiert und gemeinsam eine Lösung gefunden werden konnte.
 
 Schon in der Ideen-Sammelphase beschloss das Mod-Team auf die Vote-Funktion des Forum zu setzen. So konnten Meinungen und Stimmungen sehr gut von Beginn an abgegriffen werden. Voting kann aber schief gehen. Nachdem die Community beschlossen hatte, dass die Firewall ab Installation eingeschaltet sein soll, kam es bei den Testern vermehr zu Beschwerden, das nicht mal mehr APT funktioniert und man musste zurückrudern.
 
