@@ -81,6 +81,14 @@ Die definition "Distribution" kann weit ausgelegt werden. Für das Team bedeutet
 In einem Theme über zukünftige Funktionen kam die Idee eines Nutzers auf einen Layout-Changer a la ZorinOS zu entwickeln. Die Idee fand sofort anklang und wurde vom Entwickler @Actionschintzel mit den Worten "Ach, das ist ja nur ein bisschen JSON-File-Geschubse" also schnell zu erledigen abgetan. In wahrheit hat die Entwicklung dann ein halbes Jahr gedauert und bis 80% der Bugs verschudnen waren wurden duzende Wikis rauf und runter gelesen. Am Ende stand das:
 ![Layouter](https://github.com/GuideOS/things-and-stuff/blob/main/img/primo-layout.png?raw=true)
 
+### Die menschliche Komponente
+
+Wir wollen natürlich nah am Nutzer sein, um schnell rückmeldungen zu bekommen haben wir ein GUI geschireben das ohne Ahnmeldung einen Bug an Redmine sendet und ein Bot postet das Ganze dann im Forum. Ob das bei einer großen Nutzerschaft immernoch praktikabel ist wird sich allerdings noch zeigen. 
+
+Menschen übersehen gerne etwas und machen auch Fehler. Als die ersten Bugreports eintrudelten. War das ganze Team am rotieren und schnell bemüht alles auszubügeln. In diesem einen Jahr kam es aber auch vor das einige von uns nicht schlafen konnten oder neben der Frau im Bettlagen und vorm geistigen Auge Python-Code geschrieben haben, der denn sogar wirklich funktionierte. Der Satz: "Als, ich mich darauf eingelassen hab', hatte ich mir das einfacher vorgestellt!", ist auch des öfteren gefallen. 
+
+Die große erkenntnis ist aber, das hiniter jeder Distro menschen stecken, die eine Leistung vollbracht haben. Man schreibt nicht einfach mal so Code auch jetzt nicht in zeiten von ChatGPT. Alles muss von manuell angepasst werden, ob das nun GuideOS, Ubuntu oder CachyOS ist. 
+
 #### Wohin die Reise führt
 
 Jetzt im Spätsommer 2025 ist schon klar, dass GuideOS langfristig auf Trixie zur finalen Version vorangetrieben werden soll. Damit bleiben wir auf Debian und schauen gemeinsam, dass wir die finale Version 1.0 noch in diesem Jahr an den User bringen können.
