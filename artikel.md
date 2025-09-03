@@ -13,19 +13,19 @@ Die Rahmenbedingungen wurden abgesteckt. Es soll ein Projekt werden, das ein gan
 
 ### Infrastruktur und Kommunikation
 
-Der große Vorteil des Projektes ist das Forum. Man kennt sich, schreibt oft mit den selben Nutzern und weiß wie man den Anderen "zu nehmen hat". Auf dieser Basis ist es eine toll erfahrung gemeinsam etwas aus dem Nichts zu erschaffen. Kleine Anmerkungen aus dem Forum werden im Code-Team genausten diskutiert. Am ende steht eine Direkte Umsetzung oder gar ein Voting zum Thema in der Community. Wahrend der Beta-Phase entwickelte das Team ein Tool, das direkt aus GuideOS heraus Bug-Reports in das Forum postet, sodas gleich darüber diskutiert und gemeinsam eine Lösung gefunden werden konnte.
+Der große Vorteil des Projektes ist das Forum. Man kennt sich, schreibt oft mit den selben Nutzern und weiß wie man den Anderen "zu nehmen hat". Auf dieser Basis ist es eine tolle Erfahrung gemeinsam etwas aus dem Nichts zu erschaffen. Kleine Anmerkungen aus dem Forum werden im Code-Team genaustens diskutiert. Am Ende steht eine direkte Umsetzung oder ein Voting zum Thema in der Community. Während der Beta-Phase entwickelte das Team ein Tool, das direkt aus GuideOS heraus Bug-Reports in das Forum postet, sodass unmittelbar darüber diskutiert und gemeinsam eine Lösung gefunden werden konnte.
 
-Schon in der Ideen-Sammelphase beschloss das Mod-Team auf die Vote-Funktion des Forum zu setzen. So konnten Meinungen und Stimmungen sehr gut von Beginn an abgegriffen werden. Voting kann aber schief gehen. Nachdem die Community beschlossen hatte, dass die Firewall ab Installation eingeschaltet sein soll, kam es bei den Testern vermehr zu Beschwerden, das nicht mal mehr APT funktioniert und man musste zurückrudern.
+Schon in der Ideen-Sammelphase beschloss das Mod-Team auf die Vote-Funktion des Forum zu setzen. So konnten Meinungen und Stimmungen sehr gut von Beginn an abgegriffen werden. Voting kann aber schief gehen. Nachdem die Community beschlossen hatte, dass die Firewall ab Installation eingeschaltet sein soll, kam es bei den Testern vermehrt zu Problem, teilweiße so gravierend, dass nicht mal mehr APT funktionierte und die Entscheidung revidiert werden musste.
 
 ### Das Core-Team
 
-Zunächst bestand das Team ausschließlich aus Moderatoren des Forums, welche Know-How zum Distro-Bau, Paket-Bau, APT, DPKG, Python und BASH mitbrachten. Schnell wurde aber klar, das Grafiker und Webdesigner gebraucht werden. So erweiterte sich das Team über der Jahr hinweg mit Normalen Nutzers des Forums, die sich besonders engagierten.
+Zunächst bestand das Team ausschließlich aus Moderatoren des Forums, welche Know-How zum Distro-Bau, Paket-Bau, APT, DPKG, Python und BASH mitbrachten. Schnell wurde aber klar, dass Grafiker und Webdesigner gebraucht werden. So erweiterte sich das Team über das Jahr hinweg mit normalen (Nicht-Moderatoren) Nutzers des Forums, die sich besonders engagierten.
 
 \[Hier müssen Noch die Mitglieder beschrieben werden\]
 
 **@Stephan**
 
-Aus der persönlichen Schnapsidee wurde schnell Realität. Nach dem ich von sehr langer Zeit schon mal ein bisschen mit Linux rumgespielt hatte, habe ich Ende 2023 noch mal mit den Gedanken gespielt und bin seit Anfang 2024 ausschließlich noch auf Linux unterwegs. Das Forum „Linux Guides Community“ war von anfang an mein Begleiter bei allen Fragen und so bin ich dort hängen geblieben. Egal ob debian- oder arch-basierende Distributionen ich habe mich mit viele Distributionen probiert und bin dann im Herbst 2024 Mitbegründer des GuideOS Projektes geworden.
+Aus der persönlichen Schnapsidee wurde schnell Realität. Nachdem ich von sehr langer Zeit schon mal ein bisschen mit Linux rumgespielt hatte, habe ich Ende 2023 noch mal mit den Gedanken gespielt und bin seit Anfang 2024 ausschließlich auf Linux unterwegs. Das Forum „Linux Guides Community“ war von Anfang an mein Begleiter bei allen Fragen und so bin ich dort hängen geblieben. Egal ob Debian- oder Arch-basierende Distributionen, ich habe viele Distributionen ausprobiert und bin dann im Herbst 2024 Mitbegründer des GuideOS Projektes geworden.
 
 Eine Reise die ich mir noch 12 Monate vorher niemals hätte träumen lassen. Aber mittlerweile bin ich für den Großteil der Grafiken zuständig, kümmere mich um Wallpaper und die Community und teste Tag für Tag GuideOS auf meinem Lenovo T490.
 
@@ -34,9 +34,10 @@ Was ich alles in der Zeit lernen durfte hätte ich mir mit Ende 50 auch nicht me
 Ab und zu muss ich auch mal mit dem Holzhammer dazwischen schlagen, wenn sich die Jungs am Code in Träumereien verlieren, aber genau das gehört auch dazu. GuideOS ist ein Traum für mich, der wahr geworden ist.
 
 **@Stardenver**
+Ich war eigentlich gar PC-Einsteiger. Schon lange bevor es die legendären ALDI-PC gab, ermöglichten mir meine Eltern im Grundschulalter einen ALDI-C64. Hier hatte ich meinen ersten Kontakt zu Computern. Aus dem Abtippen von Code aus diversen Zeitschriften wurde später der Kauf von Public Domain Disketten für meinen Atari ST, bis ich dann irgendwann auf meinen ersten PC in Form eines MMX166 umgestiegen bin. Ich habe ausnahmslos alle Windows-Versionen erlebt und war sogar ein Windows-Fanboy. Diverse Linux-Zeitschriften der 90er hatten mich bereits angespornt - diverse Entscheidungen von Microsoft dann aber erst in den späten 2000ern zum Umstieg meiner Hauptsysteme auf Linux bewogen. Als Admin des Linux Guides Forum kümmere ich mich in GuideOS um die Community und um interne Tools und Services wie unseren Mailserver, den Server für Redmine, das GuideOS-Ticket-Tool und generell alles, was mit eigenen Servern zu tun hat.
 
 **@Actionschnitzel**
-Mit elf Jahren war mir sehr langweilig und ich haben dann alle lebaren Files im system23 von Windows gelesen. Das klingt nicht sehr gesund, ist aber warscheinlich der Grund dafür das ich mich heut zu Tage um die IT eines Familienunternhemen kümmere. Meine aufgaben im Core-Team sind Software-Enticklung Paket-Bau, Repository-Wartung und darauf zu achten, der niemand den Shebang vergisst.
+Mit elf Jahren war mir sehr langweilig und ich haben dann alle lesbaren Files im system32 von Windows gelesen. Das klingt nicht sehr gesund, ist aber warscheinlich der Grund dafür das ich mich heutzutage um die IT eines Familienunternehmens kümmere. Meine Aufgaben im Core-Team sind Software-Entwicklung, Paket-Bau, Repository-Wartung und darauf zu achten, dass niemand den Shebang vergisst.
 
 **@evilware666**    
     
