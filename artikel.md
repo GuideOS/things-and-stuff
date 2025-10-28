@@ -37,7 +37,7 @@ Software-Entwicklung, Bug-Management, Package-Maintainer
 #### @StephanR    
 Webinhalte; Art-Design; Projekt-Koordination; Forums-Bereich    
     
-#### @KTT76    
+#### @KTT73    
 Software-Entwicklung, Testing, Bug-Management
     
 #### @Nighworker    
