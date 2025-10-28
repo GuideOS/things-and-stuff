@@ -42,6 +42,9 @@ Software-Entwicklung, Testing, Bug-Management
     
 #### @Nighworker    
 Software-Entwicklung, Testing, Bug-Management
+
+#### @Kim88    
+Webinhalte, Koordination, Testing, Infrastruktur
      
 ### Die Basis
 
