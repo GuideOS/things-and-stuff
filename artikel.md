@@ -85,3 +85,9 @@ Jetzt im Spätsommer 2025 ist schon klar, dass GuideOS langfristig auf Trixie zu
 Natürlich soll GuideOS eine funktionierende Distro sein. Im Fokus steht aber auch das Lernen. Unbestreitbar kann jeder, der zum Core-Team gehört, mit absoluter Sicherheit sagen, dass er mehr über Linux gelernt hat. Das ist auch eine Grundvoraussetzung: Lernen und über seinen Schatten springen. Man muss nicht Programmieren können um bei GuideOS dabei zu sein. Aber es ist auch mehr als einmal passiert, dass Team-Mitglieder, die eigentlich nur einen kleinen Teil mit vorhandenem Wissen beitragen wollten, sich plötzlich umfangreiche Handbücher bestellt haben, weil sie noch mehr wissen und leisten wollten.
 
 Vieles ist offen und neben den ernormen Möglichkeiten und der Chance, gemeinsam etwas zu schaffen, ist da natürlich auch immer die Angst, dass man mit einem solchen Projekt scheitern könnte. Wie wir uns die Angst nehmen? Hier wird es jetzt ganz prakmatisch und vielleicht sogar klischeehaft: Der Weg ist das Ziel. Wir sind aus der Community enstanden und diese ist der Stützpfeiler und das Herz von GuideOS. Egal wie der Weg verläuft und egal wohin er uns führt - wir gehen ihn gemeinsam als Community. Auf diesem Weg haben wir viel Spaß, lernen viel Neues, wachsen über uns hinaus und wir machen einfach etwas ganz tolles als Gemeinschaft. Das kann uns niemand mehr nehmen und egal was kommt, wir erleben es gmeinsam. Danke an die gesamte Community.
+
+### GuideOS findet Ihr hier:
+
+[Website](https://guideos.de/)    
+[Github](https://github.com/GuideOS)    
+[LGC-Bereich](https://forum.linuxguides.de/index.php?board/47-guideos/)
